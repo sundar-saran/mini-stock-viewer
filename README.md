@@ -3,8 +3,6 @@
 A responsive stock/company data viewer that fetches information from a public API, displays it in a Bootstrap carousel, and visualizes the top 5 items by price using Chart.js.
 
 ## Features
-
-- Fetches product/company data from [DummyJSON API](https://dummyjson.com/products)
 - Search functionality for quick filtering
 - Sort by **Price** or **Rating** (preferences saved in localStorage)
 - Bootstrap carousel for smooth browsing
